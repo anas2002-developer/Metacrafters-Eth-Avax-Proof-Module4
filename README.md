@@ -1,4 +1,3 @@
-Certainly! Here's a Readme file for the updated DegenToken contract:
 
 ---
 
